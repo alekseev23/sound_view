@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.101,=C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=X:\Work\CPP\2023\SoundView\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.589,=X:\Work\CPP\2023\SoundView\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=X:\Work\CPP\2023\_Common_\Lib\files.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,=X:\Work\CPP\2023\_Common_\Lib\bitmap.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,=X:\Work\CPP\2023\SoundView\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.067,=X:\Work\CPP\2023\SoundView\SoundView.todo</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Unit1.dfm=X:\Work\CPP\2023\SoundView\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Unit1.h=X:\Work\CPP\2023\SoundView\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Project1.cbproj=X:\Work\CPP\2023\SoundView\SoundView.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,=X:\Work\CPP\2023\SoundView\common.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,=X:\Work\CPP\2023\_Common_\Lib\files.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,=X:\Work\CPP\2023\SoundView\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=X:\Work\CPP\2023\SoundView\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.088,=X:\Work\CPP\2023\_Common_\Lib\strings.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,=X:\Work\CPP\2023\_Common_\Lib\bitmap.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,=X:\Work\CPP\2023\_Common_\Lib\RunProcess.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Unit1.cpp=X:\Work\CPP\2023\SoundView\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=X:\Work\CPP\2023\_Common_\Lib\RunProcess.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,=X:\Work\CPP\2023\_Common_\Lib\strings.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,=C:\Users\aleks\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,X:\Work\CPP\2023\SoundView\Project1PCH1.h=X:\Work\CPP\2023\SoundView\SoundViewPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=X:\Work\CPP\2023\SoundView\common.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=X:\Work\CPP\2023\SoundView\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,=X:\Work\CPP\2023\SoundView\bass.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=X:\Work\CPP\2023\SoundView\bass.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=X:\Work\CPP\2023\SoundView\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,=X:\Work\CPP\2023\SoundView\Unit8.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
